@@ -7,12 +7,12 @@
             "birthday": 773020800000,
             "_id": "58b02a35387e2813c8dc5cb1"
         },
-        "id": "58b02a35387e2813c8dc5cb1_9223370286547808284_tr",
+        "id": "58b02a35387e2813c8dc5cb1_9223370286522834426_tr",
         "feel": 3,
-        "calorie": 51,
-        "duration": 783,
-        "startTime": 1750306184388,
-        "endTime": 1750306967523,
+        "calorie": 149,
+        "duration": 2072,
+        "startTime": 1750329869217,
+        "endTime": 1750331941381,
         "type": "training",
         "subtype": "normal",
         "timezone": "Asia/Shanghai",
@@ -26,8 +26,8 @@
             "place": null,
             "stateValue": 0,
             "stars": 0,
-            "public": false,
-            "exist": false
+            "exist": false,
+            "public": false
         },
         "eventInfos": [],
         "liveSessionId": null,
@@ -36,12 +36,12 @@
         "doubtfulScore": 0.0,
         "flags": [],
         "heartRate": {
-            "heartRates": "H4sIAAAAAAAAE62ZvYoVQRCF832KYeMN+q+qus18AGFzMbjCCBdcEecuCOK7O60XUfg66epgk3ODb2tOVfeZmvcP2/bj/Nu2x+vxfHk99sftzfbp8vnYn/7IH/fL7Xjev727fnm9/f41hnr/7XZ92Y/b5eVrl1tM/8hvv1+Pu3qKP5+mOIachJzk4GTixIAFdXmeVJiUmZTnSSUSKZsGIHV5mpSxG3KNSDrleRL6lGthUpknpYCklpB0ystJ7FNz+DQiNSa11aQSMpG6PE2KeEKUUJlU50lBkBQNSac8T+Knl7D3ujxLaji4JeE4dXka1BjELqV5lxq3Q2aT8rxJg0eXuaLs6TtFUuFZKvOzNHh2wm0njrbjbhA2SdZPkrBL4nGJScqjpI6bKeC9XpRrUscscYsbl2SO04GfXeXGq47Gw/BVKjdedZwOAxDetF2eBvGl1Nij5vCIT6HGXdeWT5IENKnLiydJ/v8P/pJOeTkJz/AuL04pEtGnLk+TImZxSexTcvgUcZqE04M40sPgvVY4PogjPgxudSn4ztTl5STuPUd+iAHvdSnsU/H4xCROEOJJEJEnV/Fu6vI8iSdX8T2wy6s7wrgmc9TE2w7hCCGOCDHYFInhjdvl1U+v8jxVzzzxCcs7CHHsIDjpSeNxassDufAKQhwrCM4rGnCaujxfUkJSRJe6vJyE09TlxZ13nm5ISp5kxD4lnKYuTzcEXhnKIUI9KwgcJs1cUXZUhIerFm68Mt94lSsqPEtlfpYqe8QBQh0BovEkCXskDo94kDg+qCM+NMwpqniEd3lxRRwe1BEeBhUZV2SOihjE6wf1rB8GIO46R3IYnAyV56iuXrcqBwd1BAcGWUCPurwahBWZY/swAPHywRzLB05CxrsHc+weuOuMP1uY57MFHkHGny3M89kCX8ksc0XZUdEAxF3n+WwxAGH+7vJiEG8dzLV1wFPVODSYa+vANXFqMEdqGJK4Jtd3C54l5Zp0+dusGW68ujxP4oPIuCZb7xNHB7tHh4cPvwBqnVPkdCMAAA==",
-            "averageHeartRate": 102.0,
-            "maxHeartRate": 141,
+            "heartRates": "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",
+            "averageHeartRate": 114.0,
+            "maxHeartRate": 153,
             "wearableDevices": [
                 {
-                    "macAddress": "CBE5E57F-B875-46DC-9AAD-71A83A6FFDB8",
+                    "macAddress": "93B39BCA-CB4C-4709-BEBF-C8803C9A08D0",
                     "name": "Apple Watch Series 10",
                     "deviceType": "Apple Watch"
                 }
